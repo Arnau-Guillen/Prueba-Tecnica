@@ -1,4 +1,6 @@
-Endpoint for testing:
+
+## Prueba tecnica para capitole-consulting
+#Endpoint for testing:
     - curl --location 'http://localhost:8081/api/getPrices?startDate=2020-06-14%2000.00.00&productId=35455&brandId=1'
 
 
